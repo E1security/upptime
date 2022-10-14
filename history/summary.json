@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2768,
-    "timeDay": 2768,
-    "timeWeek": 2768,
-    "timeMonth": 2768,
-    "timeYear": 2768,
+    "time": 2919,
+    "timeDay": 2919,
+    "timeWeek": 2919,
+    "timeMonth": 2919,
+    "timeYear": 2919,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "e1orangecard",
-    "url": "https://www.e1orangecard.co.kr",
-    "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.co.kr.ico",
-    "slug": "e1orangecard",
-    "status": "down",
-    "uptime": "41.39%",
-    "uptimeDay": "41.39%",
-    "uptimeWeek": "41.39%",
-    "uptimeMonth": "41.39%",
-    "uptimeYear": "41.39%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-10-14": 1
-    }
   },
   {
     "name": "e1careers",
@@ -48,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3037,
-    "timeDay": 3037,
-    "timeWeek": 3037,
-    "timeMonth": 3037,
-    "timeYear": 3037,
+    "time": 3140,
+    "timeDay": 3140,
+    "timeWeek": 3140,
+    "timeMonth": 3140,
+    "timeYear": 3140,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "e1ecos",
-    "url": "https://www.e1ecos.co.kr",
-    "icon": "https://icons.duckduckgo.com/ip3/www.e1ecos.co.kr.ico",
-    "slug": "e1ecos",
-    "status": "down",
-    "uptime": "72.78%",
-    "uptimeDay": "72.78%",
-    "uptimeWeek": "72.78%",
-    "uptimeMonth": "72.78%",
-    "uptimeYear": "72.78%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-10-14": 0
-    }
   }
 ]
