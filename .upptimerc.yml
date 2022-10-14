@@ -5,12 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: e1.co.kr
     url: https://www.e1.co.kr
-  - name: e1orangecard
-    url: https://www.e1orangecard.co.kr
   - name: e1careers
     url: https://www.e1careers.com
-  - name: e1ecos
-    url: https://www.e1ecos.co.kr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
