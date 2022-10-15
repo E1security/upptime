@@ -15,6 +15,10 @@ sites:
     url: https://www.e1.co.kr
   - name: HP E1careers
     url: https://www.e1careers.com
+  - name: LS autodiscover.lsworkplace.onmicrosoft.com
+    url: https://autodiscover.lsworkplace.onmicrosoft.com
+  - name: LS samlsso.lsworkplace.com
+    url: https://samlsso.lsworkplace.com:8443/login/jsp/login/ext/signonext/?returnURL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
