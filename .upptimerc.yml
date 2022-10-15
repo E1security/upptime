@@ -11,13 +11,13 @@ sites:
     url: https://otp.e1.co.kr:9443
   - name: VDI
     url: https://vdi.e1.co.kr    
-  - name: HP E1
+  - name: E1
     url: https://www.e1.co.kr
-  - name: HP E1careers
+  - name: E1careers
     url: https://www.e1careers.com
-  - name: LS autodiscover.lsworkplace.onmicrosoft.com
+  - name: autodiscover.lsworkplace.onmicrosoft.com
     url: http://autodiscover.lsworkplace.onmicrosoft.com
-  - name: LS samlsso.lsworkplace.com
+  - name: samlsso.lsworkplace.com
     url: https://samlsso.lsworkplace.com:8443/login/jsp/login/ext/signonext/?returnURL
 
 status-website:
