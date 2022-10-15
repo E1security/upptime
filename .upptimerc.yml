@@ -16,7 +16,7 @@ sites:
   - name: HP E1careers
     url: https://www.e1careers.com
   - name: LS autodiscover.lsworkplace.onmicrosoft.com
-    url: https://autodiscover.lsworkplace.onmicrosoft.com
+    url: http://autodiscover.lsworkplace.onmicrosoft.com
   - name: LS samlsso.lsworkplace.com
     url: https://samlsso.lsworkplace.com:8443/login/jsp/login/ext/signonext/?returnURL
 
