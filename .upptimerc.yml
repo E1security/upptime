@@ -8,7 +8,7 @@ sites:
   - name: SGVPN
     url: https://sgvpn.e1.co.kr
   - name: OTP
-    url: https://otp.e1.co.kr
+    url: https://otp.e1.co.kr:9443
   - name: VDI
     url: https://vdi.e1.co.kr    
   - name: HP E1
