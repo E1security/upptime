@@ -13,8 +13,20 @@ sites:
     url: https://vdi.e1.co.kr    
   - name: E1
     url: https://www.e1.co.kr
+  - name: E1orangecard
+    url: https://www.e1orangecard.com
+  - name: E1ecos
+    url: https://www.e1ecos.co.kr
   - name: E1careers
     url: https://www.e1careers.com
+  - name: E-Accounting
+    url: https://e-accmobile.e1.co.kr
+  - name: SHE
+    url: https://m-she.e1.co.kr
+  - name: partner-SHE
+    url: https://partner-she.e1.co.kr
+  - name: e1mobile    
+    url: http://www.e1mobile.co.kr:30021
   - name: autodiscover.lsworkplace.onmicrosoft.com
     url: http://autodiscover.lsworkplace.onmicrosoft.com
   - name: samlsso.lsworkplace.com
