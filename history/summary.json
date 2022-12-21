@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.com.ico",
     "slug": "e1orangecard",
     "status": "up",
-    "uptime": "11.64%",
+    "uptime": "12.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.64%",
-    "uptimeYear": "11.64%",
+    "uptimeMonth": "27.53%",
+    "uptimeYear": "12.00%",
     "time": 2603,
     "timeDay": 1870,
     "timeWeek": 2711,
@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-21": 71,
+      "2022-12-21": 460,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
@@ -258,10 +258,10 @@
     "url": "https://www.e1careers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.e1careers.com.ico",
     "slug": "e1careers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2989,
@@ -269,7 +269,9 @@
     "timeWeek": 2874,
     "timeMonth": 2913,
     "timeYear": 2989,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-21": 2
+    }
   },
   {
     "name": "E-Accounting",
@@ -288,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-21": 71,
+      "2022-12-21": 460,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
@@ -374,7 +376,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-21": 71,
+      "2022-12-21": 460,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
@@ -460,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-21": 71,
+      "2022-12-21": 460,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
@@ -546,7 +548,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-21": 71,
+      "2022-12-21": 460,
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
