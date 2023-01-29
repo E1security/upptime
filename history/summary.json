@@ -4,18 +4,20 @@
     "url": "https://vpn.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.e1.co.kr.ico",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 995,
     "timeDay": 1400,
     "timeWeek": 1048,
     "timeMonth": 986,
     "timeYear": 995,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 4
+    }
   },
   {
     "name": "SGVPN",
@@ -40,36 +42,40 @@
     "url": "https://otp.e1.co.kr:9443",
     "icon": "https://icons.duckduckgo.com/ip3/otp.e1.co.kr.ico",
     "slug": "otp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1171,
     "timeDay": 1207,
     "timeWeek": 1090,
     "timeMonth": 1144,
     "timeYear": 1171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 4
+    }
   },
   {
     "name": "VDI",
     "url": "https://vdi.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/vdi.e1.co.kr.ico",
     "slug": "vdi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1927,
     "timeDay": 2041,
     "timeWeek": 1808,
     "timeMonth": 1888,
     "timeYear": 1927,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-29": 3
+    }
   },
   {
     "name": "E1",
@@ -95,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.com.ico",
     "slug": "e1orangecard",
     "status": "down",
-    "uptime": "8.61%",
+    "uptime": "8.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.35%",
-    "uptimeYear": "8.61%",
+    "uptimeYear": "8.58%",
     "time": 2572,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2434,
     "timeYear": 2572,
     "dailyMinutesDown": {
-      "2023-01-29": 82,
+      "2023-01-29": 563,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -224,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 82,
+      "2023-01-29": 563,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -367,7 +373,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 82,
+      "2023-01-29": 563,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -492,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 82,
+      "2023-01-29": 563,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -617,7 +623,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 82,
+      "2023-01-29": 563,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
@@ -742,7 +748,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-29": 82,
+      "2023-01-29": 563,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
