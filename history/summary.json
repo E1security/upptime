@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 2572,
     "dailyMinutesDown": {
-      "2023-02-04": 1394,
+      "2023-02-04": 1404,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -230,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1394,
+      "2023-02-04": 1404,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -379,7 +379,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1394,
+      "2023-02-04": 1404,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -510,7 +510,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1394,
+      "2023-02-04": 1404,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -641,7 +641,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1394,
+      "2023-02-04": 1404,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -772,7 +772,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-04": 1394,
+      "2023-02-04": 1404,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -911,19 +911,19 @@
     "url": "https://samlsso.lsworkplace.com:8443/login/jsp/login/ext/signonext/?returnURL",
     "icon": "https://icons.duckduckgo.com/ip3/samlsso.lsworkplace.com.ico",
     "slug": "samlsso-lsworkplace-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2998,
-    "timeDay": 0,
-    "timeWeek": 2431,
-    "timeMonth": 2722,
-    "timeYear": 2998,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3025,
+    "timeDay": 6097,
+    "timeWeek": 2955,
+    "timeMonth": 2830,
+    "timeYear": 3025,
     "dailyMinutesDown": {
-      "2023-02-04": 0
+      "2023-02-04": 11
     }
   }
 ]
