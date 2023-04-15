@@ -4,19 +4,19 @@
     "url": "https://vpn.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.e1.co.kr.ico",
     "slug": "vpn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 1112,
-    "timeWeek": 999,
-    "timeMonth": 1020,
-    "timeYear": 1008,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "69.72%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.83%",
+    "time": 1009,
+    "timeDay": 1130,
+    "timeWeek": 1018,
+    "timeMonth": 1024,
+    "timeYear": 1009,
     "dailyMinutesDown": {
-      "2023-04-15": 4
+      "2023-04-15": 436
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/otp.e1.co.kr.ico",
     "slug": "otp",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.82%",
+    "uptimeDay": "67.47%",
+    "uptimeWeek": "95.35%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.82%",
     "time": 1158,
     "timeDay": 1288,
     "timeWeek": 1153,
     "timeMonth": 1197,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2023-04-15": 32
+      "2023-04-15": 468
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vdi.e1.co.kr.ico",
     "slug": "vdi",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.83%",
+    "uptimeDay": "69.49%",
+    "uptimeWeek": "95.64%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.83%",
     "time": 1932,
     "timeDay": 2165,
     "timeWeek": 2054,
     "timeMonth": 2045,
     "timeYear": 1932,
     "dailyMinutesDown": {
-      "2023-04-15": 3
+      "2023-04-15": 439
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.com.ico",
     "slug": "e1orangecard",
     "status": "down",
-    "uptime": "8.41%",
+    "uptime": "8.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "18.53%",
-    "uptimeYear": "8.41%",
+    "uptimeYear": "8.40%",
     "time": 2709,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2884,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-04-15": 848,
+      "2023-04-15": 1284,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 848,
+      "2023-04-15": 1284,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -520,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 848,
+      "2023-04-15": 1284,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -721,7 +721,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 848,
+      "2023-04-15": 1284,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -922,7 +922,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 848,
+      "2023-04-15": 1284,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -1123,7 +1123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 848,
+      "2023-04-15": 1284,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
