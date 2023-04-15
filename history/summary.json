@@ -4,18 +4,20 @@
     "url": "https://vpn.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/vpn.e1.co.kr.ico",
     "slug": "vpn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1008,
     "timeDay": 1112,
     "timeWeek": 999,
     "timeMonth": 1020,
     "timeYear": 1008,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-15": 4
+    }
   },
   {
     "name": "SGVPN",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/otp.e1.co.kr.ico",
     "slug": "otp",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1158,
     "timeDay": 1288,
     "timeWeek": 1153,
     "timeMonth": 1197,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2023-04-15": 3
+      "2023-04-15": 32
     }
   },
   {
@@ -60,18 +62,20 @@
     "url": "https://vdi.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/vdi.e1.co.kr.ico",
     "slug": "vdi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1932,
     "timeDay": 2165,
     "timeWeek": 2054,
     "timeMonth": 2045,
     "timeYear": 1932,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-15": 3
+    }
   },
   {
     "name": "E1",
@@ -108,7 +112,7 @@
     "timeMonth": 2884,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-04-15": 819,
+      "2023-04-15": 848,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -297,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 819,
+      "2023-04-15": 848,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -516,7 +520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 819,
+      "2023-04-15": 848,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -717,7 +721,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 819,
+      "2023-04-15": 848,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -918,7 +922,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 819,
+      "2023-04-15": 848,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -1119,7 +1123,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 819,
+      "2023-04-15": 848,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
