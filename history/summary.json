@@ -40,18 +40,20 @@
     "url": "https://otp.e1.co.kr:9443",
     "icon": "https://icons.duckduckgo.com/ip3/otp.e1.co.kr.ico",
     "slug": "otp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1158,
     "timeDay": 1288,
     "timeWeek": 1153,
     "timeMonth": 1197,
     "timeYear": 1158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-15": 3
+    }
   },
   {
     "name": "VDI",
@@ -95,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.com.ico",
     "slug": "e1orangecard",
     "status": "down",
-    "uptime": "8.44%",
+    "uptime": "8.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "18.53%",
-    "uptimeYear": "8.44%",
+    "uptimeYear": "8.41%",
     "time": 2709,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2884,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-04-15": 72,
+      "2023-04-15": 819,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -295,7 +297,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 72,
+      "2023-04-15": 819,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -514,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 72,
+      "2023-04-15": 819,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -715,7 +717,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 72,
+      "2023-04-15": 819,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -916,7 +918,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 72,
+      "2023-04-15": 819,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
@@ -1117,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-15": 72,
+      "2023-04-15": 819,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
