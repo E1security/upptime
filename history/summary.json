@@ -24,19 +24,19 @@
     "url": "https://sgvpn.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/sgvpn.e1.co.kr.ico",
     "slug": "sgvpn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1159,
-    "timeDay": 1223,
-    "timeWeek": 1128,
-    "timeMonth": 1148,
-    "timeYear": 1159,
+    "time": 1160,
+    "timeDay": 1207,
+    "timeWeek": 1136,
+    "timeMonth": 1150,
+    "timeYear": 1160,
     "dailyMinutesDown": {
-      "2023-05-08": 3
+      "2023-05-08": 12
     }
   },
   {
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-05-08": 1048,
+      "2023-05-08": 1061,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 1048,
+      "2023-05-08": 1061,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -570,7 +570,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 1049,
+      "2023-05-08": 1061,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -794,7 +794,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 1049,
+      "2023-05-08": 1061,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1018,7 +1018,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 1049,
+      "2023-05-08": 1061,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
@@ -1242,7 +1242,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-08": 1049,
+      "2023-05-08": 1061,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
