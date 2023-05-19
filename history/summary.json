@@ -86,18 +86,20 @@
     "url": "https://www.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.e1.co.kr.ico",
     "slug": "e1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2806,
     "timeDay": 1959,
     "timeWeek": 2602,
     "timeMonth": 2701,
     "timeYear": 2806,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-19": 3
+    }
   },
   {
     "name": "E1orangecard",
@@ -105,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.com.ico",
     "slug": "e1orangecard",
     "status": "down",
-    "uptime": "7.10%",
+    "uptime": "7.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.10%",
+    "uptimeYear": "7.09%",
     "time": 2709,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-05-19": 72,
+      "2023-05-19": 507,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -339,7 +341,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 72,
+      "2023-05-19": 507,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -592,7 +594,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 72,
+      "2023-05-19": 508,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -827,7 +829,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 73,
+      "2023-05-19": 508,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1062,7 +1064,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 73,
+      "2023-05-19": 508,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
@@ -1297,7 +1299,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-19": 73,
+      "2023-05-19": 508,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
