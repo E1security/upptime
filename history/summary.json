@@ -86,11 +86,11 @@
     "url": "https://www.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.e1.co.kr.ico",
     "slug": "e1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 2805,
     "timeDay": 2683,
@@ -98,7 +98,7 @@
     "timeMonth": 2716,
     "timeYear": 2805,
     "dailyMinutesDown": {
-      "2023-05-20": 19
+      "2023-05-20": 23
     }
   },
   {
@@ -118,7 +118,7 @@
     "timeMonth": 0,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-05-20": 324,
+      "2023-05-20": 350,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -342,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 324,
+      "2023-05-20": 350,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -566,11 +566,11 @@
     "url": "https://www.e1careers.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.e1careers.com.ico",
     "slug": "e1careers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 2920,
     "timeDay": 2839,
@@ -578,7 +578,7 @@
     "timeMonth": 2759,
     "timeYear": 2920,
     "dailyMinutesDown": {
-      "2023-05-20": 20
+      "2023-05-20": 22
     }
   },
   {
@@ -598,7 +598,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 324,
+      "2023-05-20": 350,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -834,7 +834,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 324,
+      "2023-05-20": 350,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1070,7 +1070,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 324,
+      "2023-05-20": 350,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1306,7 +1306,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 324,
+      "2023-05-20": 350,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
