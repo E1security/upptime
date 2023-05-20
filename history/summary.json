@@ -86,18 +86,20 @@
     "url": "https://www.e1.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.e1.co.kr.ico",
     "slug": "e1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2805,
     "timeDay": 2604,
     "timeWeek": 2667,
     "timeMonth": 2712,
     "timeYear": 2805,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-20": 3
+    }
   },
   {
     "name": "E1orangecard",
@@ -116,7 +118,7 @@
     "timeMonth": 0,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-05-20": 70,
+      "2023-05-20": 147,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -340,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 70,
+      "2023-05-20": 147,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -594,7 +596,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 70,
+      "2023-05-20": 147,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -830,7 +832,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 70,
+      "2023-05-20": 147,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1066,7 +1068,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 70,
+      "2023-05-20": 147,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1302,7 +1304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-20": 70,
+      "2023-05-20": 147,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
