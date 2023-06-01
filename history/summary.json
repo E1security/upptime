@@ -119,7 +119,7 @@
     "timeMonth": 0,
     "timeYear": 2709,
     "dailyMinutesDown": {
-      "2023-06-01": 110,
+      "2023-06-01": 188,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -355,7 +355,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-01": 110,
+      "2023-06-01": 188,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -623,7 +623,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-01": 110,
+      "2023-06-01": 188,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -871,7 +871,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-01": 110,
+      "2023-06-01": 188,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1119,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-01": 110,
+      "2023-06-01": 188,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1367,7 +1367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-01": 110,
+      "2023-06-01": 188,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1623,9 +1623,9 @@
     "url": "https://samlsso.lsworkplace.com:8443/login/jsp/login/ext/signonext/?returnURL",
     "icon": "https://icons.duckduckgo.com/ip3/samlsso.lsworkplace.com.ico",
     "slug": "samlsso-lsworkplace-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1635,6 +1635,7 @@
     "timeMonth": 2759,
     "timeYear": 2897,
     "dailyMinutesDown": {
+      "2023-06-01": 0,
       "2023-02-15": 15
     }
   }
