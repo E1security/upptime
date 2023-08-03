@@ -44,11 +44,11 @@
     "url": "https://otp.e1.co.kr:9443",
     "icon": "https://icons.duckduckgo.com/ip3/otp.e1.co.kr.ico",
     "slug": "otp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.83%",
     "time": 1166,
     "timeDay": 1073,
@@ -56,6 +56,7 @@
     "timeMonth": 1195,
     "timeYear": 1166,
     "dailyMinutesDown": {
+      "2023-08-03": 3,
       "2023-04-16": 103,
       "2023-04-15": 625
     }
@@ -93,7 +94,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2819,
-    "timeDay": 2976,
+    "timeDay": 2808,
     "timeWeek": 3285,
     "timeMonth": 2919,
     "timeYear": 2819,
@@ -120,7 +121,7 @@
     "timeMonth": 0,
     "timeYear": 2713,
     "dailyMinutesDown": {
-      "2023-08-03": 70,
+      "2023-08-03": 609,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -417,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-03": 70,
+      "2023-08-03": 609,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -723,7 +724,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.30%",
     "time": 2921,
-    "timeDay": 3049,
+    "timeDay": 2743,
     "timeWeek": 3108,
     "timeMonth": 2930,
     "timeYear": 2921,
@@ -756,7 +757,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-03": 70,
+      "2023-08-03": 609,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -1067,7 +1068,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-03": 70,
+      "2023-08-03": 609,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -1378,7 +1379,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-03": 70,
+      "2023-08-03": 609,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -1689,7 +1690,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-03": 70,
+      "2023-08-03": 609,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
