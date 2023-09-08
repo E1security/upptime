@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 2713,
     "dailyMinutesDown": {
-      "2023-09-08": 401,
+      "2023-09-08": 491,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 401,
+      "2023-09-08": 491,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -835,7 +835,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 401,
+      "2023-09-08": 491,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -1182,7 +1182,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 401,
+      "2023-09-08": 491,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -1529,7 +1529,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 401,
+      "2023-09-08": 491,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -1876,7 +1876,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 401,
+      "2023-09-08": 491,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -2231,11 +2231,11 @@
     "url": "https://samlsso.lsworkplace.com:8443/login/jsp/login/ext/signonext/?returnURL",
     "icon": "https://icons.duckduckgo.com/ip3/samlsso.lsworkplace.com.ico",
     "slug": "samlsso-lsworkplace-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 2891,
     "timeDay": 2704,
@@ -2243,7 +2243,7 @@
     "timeMonth": 2776,
     "timeYear": 2891,
     "dailyMinutesDown": {
-      "2023-09-08": 73,
+      "2023-09-08": 60,
       "2023-09-07": 4,
       "2023-08-04": 15,
       "2023-06-01": 29,
