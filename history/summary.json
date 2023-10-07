@@ -44,11 +44,11 @@
     "url": "https://otp.e1.co.kr:9443",
     "icon": "https://icons.duckduckgo.com/ip3/otp.e1.co.kr.ico",
     "slug": "otp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.85%",
     "time": 1156,
     "timeDay": 1201,
@@ -56,6 +56,7 @@
     "timeMonth": 1142,
     "timeYear": 1156,
     "dailyMinutesDown": {
+      "2023-10-07": 4,
       "2023-08-03": 21,
       "2023-04-16": 103,
       "2023-04-15": 625
@@ -68,9 +69,9 @@
     "slug": "vdi",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
     "time": 1955,
     "timeDay": 2252,
@@ -78,7 +79,7 @@
     "timeMonth": 2012,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2023-10-07": 3,
+      "2023-10-07": 17,
       "2023-04-16": 103,
       "2023-04-15": 595
     }
@@ -114,7 +115,7 @@
     "status": "down",
     "uptime": "12.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.70%",
+    "uptimeWeek": "83.57%",
     "uptimeMonth": "83.91%",
     "uptimeYear": "12.22%",
     "time": 2644,
@@ -123,7 +124,7 @@
     "timeMonth": 2582,
     "timeYear": 2644,
     "dailyMinutesDown": {
-      "2023-10-07": 583,
+      "2023-10-07": 597,
       "2023-10-06": 1060,
       "2023-09-11": 230,
       "2023-09-10": 1440,
@@ -461,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-07": 583,
+      "2023-10-07": 597,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -870,7 +871,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-07": 583,
+      "2023-10-07": 597,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -1246,7 +1247,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-07": 583,
+      "2023-10-07": 597,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -1622,7 +1623,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-07": 583,
+      "2023-10-07": 597,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -1998,7 +1999,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-07": 583,
+      "2023-10-07": 597,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
