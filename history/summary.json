@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vpn.e1.co.kr.ico",
     "slug": "vpn",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "99.81%",
     "time": 994,
-    "timeDay": 801,
-    "timeWeek": 936,
-    "timeMonth": 959,
+    "timeDay": 1161,
+    "timeWeek": 988,
+    "timeMonth": 965,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2023-10-07": 561,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1163,
-    "timeDay": 966,
-    "timeWeek": 1279,
-    "timeMonth": 1159,
+    "timeDay": 1324,
+    "timeWeek": 1330,
+    "timeMonth": 1166,
     "timeYear": 1165,
     "dailyMinutesDown": {
       "2023-05-13": 22
@@ -52,10 +52,10 @@
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.72%",
     "time": 1152,
-    "timeDay": 937,
-    "timeWeek": 1069,
-    "timeMonth": 1098,
-    "timeYear": 1151,
+    "timeDay": 1252,
+    "timeWeek": 1131,
+    "timeMonth": 1102,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2023-10-07": 746,
       "2023-08-03": 21,
@@ -75,10 +75,10 @@
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.73%",
     "time": 1952,
-    "timeDay": 1590,
-    "timeWeek": 2004,
-    "timeMonth": 1944,
-    "timeYear": 1955,
+    "timeDay": 2251,
+    "timeWeek": 2098,
+    "timeMonth": 1955,
+    "timeYear": 1956,
     "dailyMinutesDown": {
       "2023-10-07": 739,
       "2023-04-16": 103,
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2818,
-    "timeDay": 2199,
-    "timeWeek": 2816,
-    "timeMonth": 2806,
-    "timeYear": 2814,
+    "time": 2819,
+    "timeDay": 3277,
+    "timeWeek": 2990,
+    "timeMonth": 2821,
+    "timeYear": 2815,
     "dailyMinutesDown": {
       "2023-09-05": 41,
       "2023-06-23": 86,
@@ -114,18 +114,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.com.ico",
     "slug": "e1orangecard",
     "status": "down",
-    "uptime": "12.93%",
-    "uptimeDay": "92.73%",
+    "uptime": "12.90%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "66.84%",
-    "uptimeMonth": "56.94%",
+    "uptimeMonth": "53.65%",
     "uptimeYear": "13.22%",
     "time": 2637,
-    "timeDay": 1995,
+    "timeDay": 0,
     "timeWeek": 2584,
-    "timeMonth": 2524,
+    "timeMonth": 2514,
     "timeYear": 2637,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-25": 61,
+      "2023-10-24": 1440,
       "2023-10-23": 44,
       "2023-10-19": 419,
       "2023-10-18": 1440,
@@ -447,8 +448,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   },
   {
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-25": 61,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -831,8 +832,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   },
   {
@@ -841,15 +841,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1careers.com.ico",
     "slug": "e1careers",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
-    "time": 2895,
-    "timeDay": 1873,
-    "timeWeek": 2670,
-    "timeMonth": 2705,
+    "time": 2896,
+    "timeDay": 3273,
+    "timeWeek": 2806,
+    "timeMonth": 2731,
     "timeYear": 2883,
     "dailyMinutesDown": {
       "2023-09-05": 41,
@@ -885,7 +885,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-25": 61,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -1248,8 +1249,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   },
   {
@@ -1269,7 +1269,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-25": 61,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -1632,8 +1633,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   },
   {
@@ -1653,7 +1653,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-25": 61,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -2016,8 +2017,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   },
   {
@@ -2037,7 +2037,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-24": 61,
+      "2023-10-25": 61,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -2400,8 +2401,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 1440
+      "2022-10-26": 1440
     }
   },
   {
@@ -2415,10 +2415,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1405,
-    "timeDay": 523,
-    "timeWeek": 906,
-    "timeMonth": 904,
+    "time": 1403,
+    "timeDay": 628,
+    "timeWeek": 867,
+    "timeMonth": 884,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2023-01-25": 45
@@ -2436,9 +2436,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 2950,
-    "timeDay": 2247,
-    "timeWeek": 3806,
-    "timeMonth": 2915,
+    "timeDay": 3087,
+    "timeWeek": 2880,
+    "timeMonth": 2925,
     "timeYear": 2948,
     "dailyMinutesDown": {
       "2023-09-13": 24,
