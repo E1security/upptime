@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.77%",
-    "time": 1001,
-    "timeDay": 1138,
-    "timeWeek": 1023,
-    "timeMonth": 992,
-    "timeYear": 1003,
+    "time": 1002,
+    "timeDay": 1365,
+    "timeWeek": 1103,
+    "timeMonth": 1009,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2023-12-22": 17,
       "2023-10-27": 188,
@@ -28,18 +28,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sgvpn.e1.co.kr.ico",
     "slug": "sgvpn",
     "status": "down",
-    "uptime": "99.13%",
+    "uptime": "98.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.02%",
-    "uptimeMonth": "86.89%",
-    "uptimeYear": "98.90%",
+    "uptimeWeek": "28.74%",
+    "uptimeMonth": "83.60%",
+    "uptimeYear": "98.63%",
     "time": 1163,
     "timeDay": 0,
-    "timeWeek": 1094,
-    "timeMonth": 1092,
+    "timeWeek": 1161,
+    "timeMonth": 1100,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 65,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -53,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/otp.e1.co.kr.ico",
     "slug": "otp",
     "status": "down",
-    "uptime": "88.06%",
+    "uptime": "87.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.00%",
+    "uptimeYear": "84.73%",
     "time": 1156,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1150,
+    "timeYear": 1149,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -162,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.67%",
-    "time": 1902,
-    "timeDay": 1691,
-    "timeWeek": 1691,
+    "time": 1901,
+    "timeDay": 1259,
+    "timeWeek": 1678,
     "timeMonth": 1596,
-    "timeYear": 1892,
+    "timeYear": 1890,
     "dailyMinutesDown": {
       "2024-01-04": 18,
       "2023-12-22": 16,
@@ -182,18 +184,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1.co.kr.ico",
     "slug": "e1",
     "status": "down",
-    "uptime": "97.23%",
+    "uptime": "97.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.69%",
-    "uptimeYear": "96.53%",
+    "uptimeMonth": "55.41%",
+    "uptimeYear": "96.25%",
     "time": 2755,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1972,
-    "timeYear": 2725,
+    "timeMonth": 1991,
+    "timeYear": 2724,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -219,7 +222,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1orangecard.com.ico",
     "slug": "e1orangecard",
     "status": "down",
-    "uptime": "11.35%",
+    "uptime": "11.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -230,7 +233,8 @@
     "timeMonth": 0,
     "timeYear": 2648,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -558,8 +562,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   },
   {
@@ -579,7 +582,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -942,8 +946,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   },
   {
@@ -952,18 +955,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.e1careers.com.ico",
     "slug": "e1careers",
     "status": "down",
-    "uptime": "87.56%",
+    "uptime": "87.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.37%",
+    "uptimeYear": "84.10%",
     "time": 2898,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 3178,
-    "timeYear": 2886,
+    "timeYear": 2885,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -1050,7 +1054,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -1413,8 +1418,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   },
   {
@@ -1434,7 +1438,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -1797,8 +1802,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   },
   {
@@ -1818,7 +1822,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -2181,8 +2186,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   },
   {
@@ -2202,7 +2206,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 66,
+      "2024-01-18": 66,
+      "2024-01-17": 1440,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -2565,8 +2570,7 @@
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
-      "2023-01-19": 1440,
-      "2023-01-18": 1440
+      "2023-01-19": 1440
     }
   },
   {
@@ -2580,11 +2584,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1314,
-    "timeDay": 1051,
-    "timeWeek": 959,
-    "timeMonth": 948,
-    "timeYear": 1236,
+    "time": 1313,
+    "timeDay": 970,
+    "timeWeek": 911,
+    "timeMonth": 940,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2023-01-25": 45
     }
@@ -2600,11 +2604,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2793,
-    "timeDay": 1841,
-    "timeWeek": 1837,
-    "timeMonth": 1715,
-    "timeYear": 2721,
+    "time": 2790,
+    "timeDay": 1427,
+    "timeWeek": 1842,
+    "timeMonth": 1722,
+    "timeYear": 2716,
     "dailyMinutesDown": {
       "2023-11-30": 17,
       "2023-11-24": 78,
