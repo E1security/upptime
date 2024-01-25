@@ -1,7 +1,7 @@
 url: https://samlsso.lsworkplace.com:8443/login/jsp/login/ext/signonext/?returnURL
 status: up
 code: 200
-responseTime: 1816
-lastUpdated: 2024-01-24T23:13:31.642Z
+responseTime: 1599
+lastUpdated: 2024-01-25T23:13:32.633Z
 startTime: 2022-10-15T13:43:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
