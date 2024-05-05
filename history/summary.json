@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 1162,
     "dailyMinutesDown": {
-      "2024-05-05": 474,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -301,14 +301,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.59%",
+    "uptimeYear": "66.58%",
     "time": 2726,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2711,
     "dailyMinutesDown": {
-      "2024-05-05": 474,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -454,7 +454,7 @@
     "timeMonth": 2075,
     "timeYear": 2504,
     "dailyMinutesDown": {
-      "2024-05-05": 474,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -804,7 +804,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-05": 475,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -1188,7 +1188,7 @@
     "timeMonth": 0,
     "timeYear": 2873,
     "dailyMinutesDown": {
-      "2024-05-05": 475,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -1384,7 +1384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-05": 475,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -1768,7 +1768,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-05": 475,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -2152,7 +2152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-05": 475,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -2536,7 +2536,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-05": 475,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -2908,19 +2908,19 @@
     "url": "http://autodiscover.lsworkplace.onmicrosoft.com",
     "icon": "https://icons.duckduckgo.com/ip3/autodiscover.lsworkplace.onmicrosoft.com.ico",
     "slug": "autodiscover-lsworkplace-onmicrosoft-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1153,
-    "timeDay": 634,
-    "timeWeek": 781,
+    "time": 1151,
+    "timeDay": 670,
+    "timeWeek": 784,
     "timeMonth": 821,
     "timeYear": 956,
     "dailyMinutesDown": {
-      "2024-05-05": 0
+      "2024-05-05": 22
     }
   },
   {
@@ -2933,14 +2933,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.23%",
+    "uptimeYear": "74.22%",
     "time": 2742,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2640,
     "dailyMinutesDown": {
-      "2024-05-05": 475,
+      "2024-05-05": 496,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
