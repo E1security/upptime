@@ -1,7 +1,7 @@
 url: http://autodiscover.lsworkplace.onmicrosoft.com
-status: down
-code: 417
-responseTime: 163
-lastUpdated: 2024-07-22T14:16:45.223Z
+status: up
+code: 200
+responseTime: 1097
+lastUpdated: 2024-07-22T14:35:00.228Z
 startTime: 2022-10-15T13:43:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
